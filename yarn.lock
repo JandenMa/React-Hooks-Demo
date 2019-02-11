@@ -7839,7 +7839,7 @@ react-dev-utils@^7.0.2:
     strip-ansi "5.0.0"
     text-table "0.2.0"
 
-react-dom@16.8.1:
+react-dom@^16.8.0:
   version "16.8.1"
   resolved "http://r.cnpmjs.org/react-dom/download/react-dom-16.8.1.tgz#ec860f98853d09d39bafd3a6f1e12389d283dbb4"
   integrity sha1-7IYPmIU9CdObr9Om8eEjidKD27Q=
@@ -7909,7 +7909,7 @@ react-scripts@2.1.4:
   optionalDependencies:
     fsevents "1.2.4"
 
-react@16.8.1:
+react@^16.8.0:
   version "16.8.1"
   resolved "http://r.cnpmjs.org/react/download/react-16.8.1.tgz#ae11831f6cb2a05d58603a976afc8a558e852c4a"
   integrity sha1-rhGDH2yyoF1YYDqXavyKVY6FLEo=
